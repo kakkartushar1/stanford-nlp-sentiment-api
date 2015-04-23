@@ -1,4 +1,7 @@
 A server wrapper around the Stanford CoreNLP sentiment engine.
+### Requirements
+Jdk 8
+Maven
 
 ### Config
 
