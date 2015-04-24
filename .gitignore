@@ -22,11 +22,6 @@ buildSrc/build
 /src/asciidoc/build
 target/
 
-# Eclipse artifacts, including WTP generated manifests
-.classpath
-.project
-spring-*/src/main/java/META-INF/MANIFEST.MF
-
 # IDEA artifacts and output dirs
 *.iml
 *.ipr
