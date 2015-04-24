@@ -1,4 +1,5 @@
-This is a fork of - ConorBrady/stanford-nlp-sentiment-api + some fixes
+This is a fork of - ConorBrady/stanford-nlp-sentiment-api + some fixes -
+
 A server wrapper around the Stanford CoreNLP sentiment engine.
 ### Requirements
 Jdk 8
